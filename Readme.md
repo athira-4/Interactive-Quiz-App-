@@ -1,14 +1,18 @@
 Interactive Quiz App with Python Flask and SQLite
+  
   This repository demonstrates a full-stack interactive quiz application built using Python Flask as the backend and HTML/JavaScript for the frontend. The app uses SQLite as the database to store user credentials, quizzes, and user responses.
 
 Features:
+
 Python Flask Backend: RESTful APIs for user authentication, quiz management, and results tracking.
 SQLite Database: Lightweight relational database for persistent data storage.
 Interactive Frontend: Clean, responsive HTML and JavaScript-based UI for taking quizzes and viewing results.
 User Authentication: Secure login system with password hashing and session management.
 CRUD Operations: Create, read, update, and delete quizzes and questions easily.
 Customizable: Extend with new features or UI improvements as needed.
+
 Prerequisites:
+
 Before running the project, ensure you have the following installed:
 
 Python 3.x – for running the backend server
